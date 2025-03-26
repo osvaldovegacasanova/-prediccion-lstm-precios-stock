@@ -26,7 +26,7 @@ pip install yfinance ta tensorflow pandas matplotlib scikit-learn
 ## 🚀 Cómo usar
 
 1. Ejecuta el script `lstm_prediccion.py` en un entorno Python (Colab, Jupyter o local).
-2. Modifica el valor del ticker si deseas analizar otro activo.
+2. Modificar el valor del ticker si se desea analizar otro activo.
 3. El modelo descargará datos de los últimos 3 años automáticamente.
 4. Al final, se mostrará el gráfico de predicción y la predicción para el próximo día hábil.
 
