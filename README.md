@@ -58,7 +58,6 @@ La combinación de estas tres variables busca ofrecer al modelo tanto informaci�
 ```
 prediccion-lstm-precios-stock/
 ├── lstm_prediccion.py         # Script principal con comentarios en español
-├── ventanas_LSTM.csv          # (opcional) Exportación de ventanas con target
 └── README.md
 ```
 
@@ -66,6 +65,6 @@ prediccion-lstm-precios-stock/
 
 ## ✍️ Autor
 
-Este proyecto fue desarrollado como ejercicio práctico para el modelado de series temporales con redes neuronales LSTM en finanzas.
+Este proyecto fue desarrollado como ejercicio práctico para el modelado de series temporales con redes neuronales LSTM.
 
 ---
