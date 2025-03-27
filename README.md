@@ -57,7 +57,7 @@ La combinación de estas tres variables busca ofrecer al modelo tanto informaci�
 
 ```
 prediccion-lstm-precios-stock/
-├── lstm_prediccion.py         # Script principal con comentarios en español
+├── lstm_prediccion.py        
 └── README.md
 ```
 
